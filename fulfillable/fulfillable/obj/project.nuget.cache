@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbCJncm/2ymxIOxmj0DVXKwbmWmg6tD7fjf/MYKpPVB4RWFO3sv5A3dqKjhSBQ/LP+hmmxAFx//30+4rBTUD+w==",
+  "success": true,
+  "projectFilePath": "C:\\fulfillable\\fulfillable2\\fulfillable\\fulfillable\\fulfillable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karoly.hegyesi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
